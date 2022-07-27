@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khasirah
-- 👀 I’m interested in Python, JavaScript, SQL, ReactJs, NextJs
-- 🌱 I’m currently learning SQL, Python, Javascript
+- 👀 I’m interested in Python, JavaScript, SQL, ReactJs, NextJs, DockerContainer
+- 🌱 I’m currently learning SQL, Python, Javascript, Docker Container
 - 💞️ I’m looking to collaborate on make application
 - 📫 How to reach me ahmadharisk@gmail.com
 
