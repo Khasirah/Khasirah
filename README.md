@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Haris.
 
 - 👀 I’m interested in Python, JavaScript, SQL, ReactJs, NextJs, DockerContainer, Networking
-- 🌱 I’m currently learning SQL, Python, Javascript, Docker Container, Android Developer
-- 💞️ I’m looking to collaborate on make application
+- 🌱 I’m currently learning Android Developer at Bangkit Academy 2024 By Google, GoTo, Traveloka - General Learning Path
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: ahmadharisk@gmail.com
 
 ### Github Statistic
